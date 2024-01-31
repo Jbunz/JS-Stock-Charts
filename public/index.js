@@ -5,5 +5,5 @@ async function main() {
     const averagePriceChartCanvas = document.querySelector('#average-price-chart');
 
 }
-
-main()
+//added api key to main
+main() '7b58f3933f9249d78e2876450b1cbe6b'
